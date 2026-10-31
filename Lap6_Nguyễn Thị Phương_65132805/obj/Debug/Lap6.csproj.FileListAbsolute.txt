@@ -1,7 +1,0 @@
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\bin\Debug\Lap6.exe.config
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\bin\Debug\Lap6.exe
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\bin\Debug\Lap6.pdb
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\obj\Debug\Lap6.csproj.AssemblyReference.cache
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\obj\Debug\Lap6.csproj.CoreCompileInputs.cache
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\obj\Debug\Lap6.exe
-C:\Users\nguye\Desktop\OOP\Lap6\Lap6\obj\Debug\Lap6.pdb
